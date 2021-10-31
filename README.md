@@ -4,8 +4,9 @@
 
 - 🧾 Here's my [CV][cvsite]
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn new techs and become more proficient in algorythms and data structures.
+- 🥅 2021 Goals: Learn new techs and become more proficient in algorithm and data structures. Be a bit more active in problem solving while still keeping up with the fast paced tech world.
 - ⚡ Fun fact: I love to draw and play basketball.
+- ☠ Dota is my toxicity 😋😋
 
 ### Connect with me:
 
