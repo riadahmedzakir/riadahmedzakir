@@ -17,9 +17,9 @@
 <br />
 
 ### Languages and Tools:
+
 Can't find all the icons 😋😋😊
 <br />
-
 
 <img align="left" alt="Visual Studio Code" width="26px" src="visual-studio-code.png" />
 
@@ -47,22 +47,15 @@ Can't find all the icons 😋😋😊
 <br />
 <br />
 
-<details width="100%">
-  <summary>⚡ GitHub Stats</summary>
+### ⚡ Github stats
 
-  <img width="100%" alt="$ILv3r's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=riadahmedzakir&theme=dracula&show_icons=true)" />
-
-</details>
+<img width="100%" alt="$ILv3r's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=riadahmedzakir&theme=dracula&show_icons=true)" />
 
 <br />
 
-<details>
-<summary>⚡ Language summary</summary>
+### ⚡ Language summary
 
-  <img width="100%" alt="$ILv3r's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riadahmedzakir&theme=dracula&show_icons=true&layout=compact" />
-</details>
-
-<br />
+<img width="100%" alt="$ILv3r's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riadahmedzakir&theme=dracula&show_icons=true&layout=compact" />
 
 [website]: https://riadahmedzakir.github.io/
 [instagram]: https://www.instagram.com/riadahmedzakir/
