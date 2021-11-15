@@ -34,6 +34,8 @@ Can't find all the icons 😋😋😊
 
 <img align="left" alt="React" width="26px" src="react.png" />
 
+<img align="left" alt="React" width="26px" src="flutter.png" />
+
 <img align="left" alt="Node.js" width="26px" src="nodejs.png" />
 
 <img align="left" alt="SQL" width="26px" src="sql.png" />
